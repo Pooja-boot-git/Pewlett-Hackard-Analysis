@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# PEWLETT-HACKARD-ANALYSIS
 
 ## PURPOSE OF THIS ANALYSIS
-The goal of this analysis is to provide seemless transition to Pewlett-Hackard employees when a rather large strength of employees will retire around the same time. 
+The goal of this analysis is to provide seemless transition to Pewlett-Hackard employees for a scenario where a rather large strength of employees will retire around the same time. 
 
 ## WHAT DEFINES RETIREMENT AGE?
 For this analysis, we have considered all employees whose birth dates fall betweeen '1952-01-01' AND '1955-12-31'. 
